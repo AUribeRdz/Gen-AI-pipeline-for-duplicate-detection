@@ -1,0 +1,10 @@
+anthropic
+sentence-transformers
+Pillow
+kagglehub
+pandas
+matplotlib
+scikit-learn
+numpy
+python-dotenv
+jupyter
